@@ -29,7 +29,7 @@ python -m http.server 3000 --bind 127.0.0.1
 
 ``` json
 {
-  // konten sebelumnya
+  "...": "topik sebelumnya"
 },
 {
     "title": "<Judul Topik>",
