@@ -1,7 +1,11 @@
-[
-  {
-    "title": "No Hello!",
-    "author": "Rania Amina",
-    "mdFile": "no-halo"
-  }
+[{
+        "title": "No Hello!",
+        "author": "Rania Amina",
+        "mdFile": "no-halo"
+    },
+    {
+        "title": "XY Problem: Masalah Apa Malah Tanya Apa",
+        "author": "Rania Amina",
+        "mdFile": "xy-problem"
+    }
 ]
