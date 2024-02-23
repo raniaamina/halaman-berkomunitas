@@ -85,9 +85,9 @@ function checkTitleParameter() {
 
 
 // Check host url to set the fetch URL
-if (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1") {
+if (window.location.hostname === "localhost") {
     console.log("Halaman dimuat di localhost.");
-    fileURL = "http://127.0.0.1:8002/" + title + ".md"
+    fileURL = "http://127.0.0.1:8000/" + title + ".md"
 } else {
     console.log("Halaman tidak dimuat di localhost.");
     fileURL = "/contents/" + title + ".md"
