@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html data-bs-theme="dark" lang="id" data-bs-smooth-scroll="true">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Berkomunitas</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding:400,700&amp;display=swap">
+    <link rel="stylesheet" href="assets/css/menu.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body style="font-family: 'Nanum Gothic Coding', serif;">
+    <nav class="navbar navbar-expand-lg navbar-light" id="navbar" style="font-family: Poppins, sans-serif;height: 10vh;">
+        <div class="container"><a class="navbar-brand" href="/"><img class="img-fluid p-3" src="assets/img/logo.svg" alt="SCP Logo" width="168px" height="21px" style="width: 120px;"></a>
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link open-menu" href="#$" onclick="openMenu()"><img src="assets/img/icons/open-menu.svg" alt="Menu" width="37px" height="23px" style="width: 32px;"></a></li>
+            </ul>
+            <div class="overlay ml-auto mr-auto d-flex align-items-center align-items-md-start justify-content-center" onclick="closeMenu()">
+                <div class="text-center overlay-menu p-5 close-menu pt-0 pt-md-5 w-100">
+                    <h3 class="text-center text-light">Menu</h3>
+                    <ul class="mt-5">
+                        <li><a class="close-menu" href="/" aria-label="beranda">Home</a></li>
+                        <li onclick="closeMenu()"><img class="close-menu" src="assets/img/icons/close.svg" alt="close" width="24px" height="24px"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <section class="d-flex align-items-start justify-content-center pt-3" style="background: linear-gradient(var(--bs-body-bg) 32%, rgba(34,34,34,0.38) 76%), url(&quot;assets/img/dot.svg&quot;) top center / 15px repeat;min-height: 30vh;">
+        <div class="container text-center">
+            <h1 style="font-weight: bold;color: var(--bs-body-color);">BERKOMUNITAS!</h1>
+            <p class="mb-3 w-75 mx-auto">Halaman ini dibuat untuk membantu rekan-rekan yang berkomunitas secara daring.</p><button class="btn text-dark rounded-pill px-5 py-2 border-0 shadow-none" type="button" style="background: var(--bs-primary-text-emphasis);">Sumbang Topik</button>
+        </div>
+    </section>
+    <section class="text-center d-flex align-items-center justify-content-center" style="min-height: 20vh;">
+        <div class="container">
+            <figure>
+                <blockquote class="blockquote">
+                    <p class="mb-0 w-75 mx-auto">Rencannya sih akan diisi <em>quote</em>, tapi belum kepikiran.</p>
+                </blockquote>
+                <figcaption class="blockquote-footer">Saya&nbsp;</figcaption>
+            </figure>
+            <hr class="w-25 mx-auto">
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <div class="row" id="topicWrapper">
+                <div class="col align-self-center p-3 topics">
+                    <div class="p-3 topic-card" style="min-height: 100px;">
+                        <p class="text-center"><span class="spinner-grow spinner-grow-sm mx-2" role="status"></span>Memuat Konten ...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="container py-5 text-center mt-4 border-top"><span>Dibuat dengan santuy oleh&nbsp;</span><a class="text-warning" href="#">Rania Amina</a></div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/masonry.pkgd.min.js"></script>
+    <script src="assets/js/scripts.js"></script>
+</body>
+
+</html>

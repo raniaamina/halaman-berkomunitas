@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 9.746 6.008"
+   height="22.708"
+   width="36.836"
+   version="1.1"
+   id="svg3272"
+   sodipodi:docname="open-menu.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3274"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="31.192313"
+     inkscape:cx="15.019726"
+     inkscape:cy="11.397039"
+     inkscape:window-width="1920"
+     inkscape:window-height="1044"
+     inkscape:window-x="1080"
+     inkscape:window-y="547"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3270" />
+  <defs
+     id="defs3266">
+    <linearGradient
+       id="f">
+      <stop
+         offset="0"
+         stop-color="#00bfa5"
+         id="stop3226" />
+      <stop
+         offset="1"
+         stop-color="#29ff8a"
+         id="stop3228" />
+    </linearGradient>
+    <linearGradient
+       id="d">
+      <stop
+         offset="0"
+         stop-color="#6200ea"
+         id="stop3231" />
+      <stop
+         offset="1"
+         stop-color="#f50048"
+         id="stop3233" />
+    </linearGradient>
+    <linearGradient
+       id="e">
+      <stop
+         offset="0"
+         stop-color="#00c853"
+         id="stop3236" />
+      <stop
+         offset="1"
+         stop-color="#2196f3"
+         id="stop3238" />
+    </linearGradient>
+    <linearGradient
+       id="c">
+      <stop
+         offset="0"
+         stop-color="#fdd835"
+         id="stop3241" />
+      <stop
+         offset="1"
+         stop-color="#f50057"
+         id="stop3243" />
+    </linearGradient>
+    <linearGradient
+       id="b">
+      <stop
+         offset="0"
+         stop-color="#1de9b6"
+         id="stop3246" />
+      <stop
+         offset="1"
+         stop-color="#2962ff"
+         id="stop3248" />
+    </linearGradient>
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         stop-color="#d500f9"
+         id="stop3251" />
+      <stop
+         offset="1"
+         stop-color="#6200ea"
+         id="stop3253" />
+    </linearGradient>
+    <linearGradient
+       id="g">
+      <stop
+         offset="0"
+         stop-color="#dddbd8"
+         id="stop3256" />
+      <stop
+         offset="1"
+         stop-color="#f5f4f2"
+         id="stop3258" />
+    </linearGradient>
+    <linearGradient
+       id="h">
+      <stop
+         offset="0"
+         stop-color="#fe6a2d"
+         id="stop3261" />
+      <stop
+         offset="1"
+         stop-color="#9b0101"
+         id="stop3263" />
+    </linearGradient>
+  </defs>
+  <g
+     fill="none"
+     stroke="#52585f"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     paint-order="fill markers stroke"
+     id="g3270">
+    <path
+       d="M.507.5H9.24M2.68 5.508h6.56M5.135 3.146H9.24"
+       id="path3268"
+       style="fill:none;stroke:#ffffff" />
+  </g>
+</svg>
