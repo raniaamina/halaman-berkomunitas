@@ -25,7 +25,7 @@ Ajukan saja pertanyaannya!
 > (+) Wah👌 Terima kasih!
 > (-) Dengan senang hati
 
-Beberapa di antara kita mungkin merasa sapaan ini bagian sopan santun. Tentu, tidak ada yang salah dengan menyapa. Namun akan sangan membantu dan efisien bila chat awal tidak hanya dimulai dengan sapaan saja.
+Beberapa di antara kita mungkin merasa sapaan ini bagian sopan santun. Tentu, tidak ada yang salah dengan menyapa. Namun akan sangat membantu dan efisien bila chat awal tidak hanya dimulai dengan sapaan saja.
 
 Ini mungkin tampak sepele, tetapi mengajukan pertanyaan sebelum mendapatkan balasan salam awal juga memungkinkan komunikasi asinkron. Jika yang bersangkutan sedang pergi atau sibut, dan kamu pergi sebelum mereka kembali, mereka masih dapat menjawab pertanyaanmu tanpa harus menunggumu kembali, alih-alih hanya menatap chat "Halo" dan bertanya-tanya atau menebak-nebak apa yang sebenarnya ingin kamu sampaikan.
 
