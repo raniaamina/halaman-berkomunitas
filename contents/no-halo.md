@@ -30,3 +30,7 @@ Beberapa di antara kita mungkin merasa sapaan ini bagian sopan santun. Tentu, ti
 Ini mungkin tampak sepele, tetapi mengajukan pertanyaan sebelum mendapatkan balasan salam awal juga memungkinkan komunikasi asinkron. Jika yang bersangkutan sedang pergi atau sibut, dan kamu pergi sebelum mereka kembali, mereka masih dapat menjawab pertanyaanmu tanpa harus menunggumu kembali, alih-alih hanya menatap chat "Halo" dan bertanya-tanya atau menebak-nebak apa yang sebenarnya ingin kamu sampaikan.
 
 [0] Tulisan ini merupakan hasil saduran dari [nohello.net](https://nohello.net) 🎉.
+
+
+-----
+`[*] Jika ada yang mengirim postingan ini ke kamu, kemungkinan karena ingin mengajakmu belajar berkomunikasi di grup komunitas secara lebih baik, tidak perlu kesal atau dongkol.`
